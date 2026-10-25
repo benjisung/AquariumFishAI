@@ -1,0 +1,29 @@
+# Local inputs and generated outputs
+data/
+datasets/
+videos/
+outputs/
+runs/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Python and environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Model checkpoints are intentionally included under weights/ only.
+*.pt
+!weights/*.pt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

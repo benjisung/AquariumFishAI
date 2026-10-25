@@ -1,0 +1,17 @@
+﻿model,class_id,manuscript_name,GT,TP,FP,FN,precision,recall,F1,AP50,AP50_95,status
+v1,0,Paracanthurus_hepatus,91,21,11,70,0.65625000,0.23076923,0.34146341,0.32125432,0.20060398,present
+v1,1,Nemateleotris_magnifica,101,0,12,101,0.00000000,0.00000000,0.00000000,0.01064979,0.00429773,present
+v1,2,Amphiprion_ocellaris_orange,0,0,19,0,0.00000000,N/A,N/A,N/A,N/A,absent_from_GT
+v1,3,Amphiprion_ocellaris_black,0,0,144,0,0.00000000,N/A,N/A,N/A,N/A,absent_from_GT
+v1,4,Dascyllus_aruanus,58,8,65,50,0.10958904,0.13793103,0.12213740,0.06269095,0.02480020,present
+v1,5,Pomacentrus_moluccensis,31,0,0,31,N/A,0.00000000,N/A,0.03379013,0.02165687,present
+v1,6,Chromis_viridis,103,0,24,103,0.00000000,0.00000000,0.00000000,0.01102999,0.00618984,present
+v1,7,Monodactylus_argenteus,44,0,5,44,0.00000000,0.00000000,0.00000000,0.00057121,0.00016596,present
+v2,0,Paracanthurus_hepatus,91,51,8,40,0.86440678,0.56043956,0.68000000,0.65489284,0.35512692,present
+v2,1,Nemateleotris_magnifica,101,43,17,58,0.71666667,0.42574257,0.53416149,0.56049871,0.25961911,present
+v2,2,Amphiprion_ocellaris_orange,0,0,4,0,0.00000000,N/A,N/A,N/A,N/A,absent_from_GT
+v2,3,Amphiprion_ocellaris_black,0,0,0,0,N/A,N/A,N/A,N/A,N/A,absent_from_GT
+v2,4,Dascyllus_aruanus,58,5,2,53,0.71428571,0.08620690,0.15384615,0.25123972,0.09119709,present
+v2,5,Pomacentrus_moluccensis,31,0,0,31,N/A,0.00000000,N/A,0.36957105,0.19462591,present
+v2,6,Chromis_viridis,103,91,29,12,0.75833333,0.88349515,0.81614350,0.84197744,0.45649692,present
+v2,7,Monodactylus_argenteus,44,36,19,8,0.65454545,0.81818182,0.72727273,0.81394371,0.46335296,present
